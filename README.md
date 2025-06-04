@@ -1,1 +1,1 @@
-To run : https://meggy-mode.github.io/randomScripts/index.html
+To run : https://meggy-mode.github.io/randomScripts
